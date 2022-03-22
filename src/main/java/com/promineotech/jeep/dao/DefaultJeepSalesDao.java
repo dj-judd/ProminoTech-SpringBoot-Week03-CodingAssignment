@@ -54,5 +54,4 @@ public class DefaultJeepSalesDao implements JeepSalesDao {
             // @formatter:on
           }});
   }
-
 }
